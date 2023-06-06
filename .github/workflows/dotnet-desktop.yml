@@ -27,7 +27,7 @@ jobs:
         if: ${{ always() }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: './GatlingCICD/GatlingCICD/bin/Debug/net6.0/allure-results'
+          publish_dir: './bin/Debug/net6.0/allure-results'
           keep_files: true
           user_name: xxchelotexx
           user_email: ruizv.marcelo@hotmail.com
