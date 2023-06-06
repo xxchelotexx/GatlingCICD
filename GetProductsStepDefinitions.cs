@@ -25,6 +25,7 @@ namespace GatlingCICD
             response = client.ExecuteGet(request);
         }
 
+
         [Then(@"I spect a valid response")]
         public void ThenISpectAValidResponse()
         {
