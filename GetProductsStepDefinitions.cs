@@ -12,22 +12,21 @@ namespace GatlingCICD
         RestRequest request;
         RestResponse response;
 
-        [Given(@"I have a the Gatling Enpoint")]
+        [Given(@"I have a the Gatling enpoint")]
         public void GivenIHaveATheGatlingEnpoint()
         {
             client = new RestClient("http://demostore.gatling.io/api/");
             request = new RestRequest("product/", Method.Get);
-
         }
 
-        [When(@"I send a GET request")]
+        [When(@"I send a GET request,")]
         public void WhenISendAGETRequest()
         {
             response = client.ExecuteGet(request);
         }
 
-        [Then(@"I spect a valid response with all products")]
-        public void ThenISpectAValidResponseWithAllProducts()
+        [Then(@"I spect a valid response")]
+        public void ThenISpectAValidResponse()
         {
             Assert.That(response.StatusCode, Is.EqualTo(HttpStatusCode.OK));
         }
