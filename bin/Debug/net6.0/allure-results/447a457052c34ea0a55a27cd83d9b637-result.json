@@ -1,0 +1,93 @@
+{
+  "uuid": "01a003a8e241467ba2c399573e40f79d",
+  "historyId": "Authentication using Valid Credentials",
+  "fullName": "Authentication using Valid Credentials",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-7FB0V4P"
+    },
+    {
+      "name": "feature",
+      "value": "Authentication"
+    },
+    {
+      "name": "tag",
+      "value": "Critical"
+    },
+    {
+      "name": "tag",
+      "value": "Authentication"
+    },
+    {
+      "name": "tag",
+      "value": "smoke-test"
+    }
+  ],
+  "links": [],
+  "name": "Authentication using Valid Credentials",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Expected: OK\r\n  But was:  BadRequest\r\n",
+    "trace": "NUnit.Framework.AssertionException:   Expected: OK\r\n  But was:  BadRequest\r\n\r\n   at NUnit.Framework.Assert.ReportFailure(String message)\r\n   at NUnit.Framework.Assert.ReportFailure(ConstraintResult result, String message, Object[] args)\r\n   at NUnit.Framework.Assert.That[TActual](TActual actual, IResolveConstraint expression, String message, Object[] args)\r\n   at NUnit.Framework.Assert.That[TActual](TActual actual, IResolveConstraint expression)\r\n   at GatlingCICD.AuthenticationStepDefinitions.ThenIReceiveAValidResponseAndAValidToken() in F:\\Mojix\\AutomationBootcamp2\\ModuloIIIAutomatizacion\\GatlingCICD\\GatlingCICD\\AuthenticationStepDefinitions.cs:line 43\r\n   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)\r\n   at Allure.SpecFlowPlugin.AllureBindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)\r\n   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments, TimeSpan& duration)\r\n   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I authenticate using valid credentials",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686091398362,
+      "stop": 1686091398488
+    },
+    {
+      "name": "When  I send a POST request",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686091398489,
+      "stop": 1686091398772
+    },
+    {
+      "name": "Then  I receive a valid response and a valid Token",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686091398773,
+      "stop": 1686091398971
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1686091398354,
+  "stop": 1686091398976
+}

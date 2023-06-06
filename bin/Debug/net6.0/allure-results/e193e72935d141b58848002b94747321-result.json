@@ -1,0 +1,88 @@
+{
+  "uuid": "0a90b367ad2d4d2f921718a9e1b19d18",
+  "historyId": "Get Product by ID",
+  "fullName": "Get Product by ID",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-7FB0V4P"
+    },
+    {
+      "name": "feature",
+      "value": "GetSpecificID"
+    },
+    {
+      "name": "tag",
+      "value": "GET"
+    },
+    {
+      "name": "tag",
+      "value": "SpecificID"
+    }
+  ],
+  "links": [],
+  "name": "Get Product by ID",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "No matching step definition found for the step"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  Given I have a Valid product ID = 17",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686089453806,
+      "stop": 1686089453880
+    },
+    {
+      "name": "When  I send a Get request",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686089453881,
+      "stop": 1686089453884
+    },
+    {
+      "name": "Then  I Spect a Valid Response",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686089453889,
+      "stop": 1686089453889
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1686089453797,
+  "stop": 1686089453946
+}

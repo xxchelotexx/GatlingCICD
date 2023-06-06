@@ -1,4 +1,8 @@
 using System;
+using System.Net;
+using System.Text.Json.Nodes;
+using Newtonsoft.Json.Linq;
+using RestSharp;
 using TechTalk.SpecFlow;
 
 namespace GatlingCICD
@@ -6,22 +10,31 @@ namespace GatlingCICD
     [Binding]
     public class GetSpecificIDStepDefinitions
     {
+        RestClient client;
+        RestRequest request;
+        RestResponse response;
+       
+
         [Given(@"Given I have a Valid product ID")]
         public void GivenGivenIHaveAValidProductID()
         {
-            throw new PendingStepException();
+            client = new RestClient("http://demostore.gatling.io/api/");
+            request = new RestRequest("product/{postid}", Method.Get);
         }
 
         [When(@"I send a Get request")]
         public void WhenISendAGetRequest()
         {
-            throw new PendingStepException();
+            request.AddUrlSegment("postid", 17);
+            response = client.ExecuteGet(request);
+
         }
 
         [Then(@"I Spect a Valid Response")]
         public void ThenISpectAValidResponse()
         {
-            throw new PendingStepException();
+            Assert.That(response.StatusCode, Is.EqualTo(HttpStatusCode.OK));
+            
         }
     }
 }

@@ -2,7 +2,7 @@
 
 A short summary of the feature
 
-@GET @SpecificID
+@GET @SpecificID @critical
 Scenario: Get Product by ID
 	Given Given I have a Valid product ID
 	When I send a Get request
