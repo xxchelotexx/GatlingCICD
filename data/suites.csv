@@ -1,3 +1,5 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue Jun 06 13:40:52 GMT 2023","Tue Jun 06 13:40:53 GMT 2023","243","","","","","","Get Products",""
-"passed","Tue Jun 06 13:40:53 GMT 2023","Tue Jun 06 13:40:53 GMT 2023","69","","","","","","Get Product by ID",""
+"passed","Tue Jun 06 22:53:03 GMT 2023","Tue Jun 06 22:53:03 GMT 2023","94","","","","","","Get Products",""
+"broken","Tue Jun 06 22:43:58 GMT 2023","Tue Jun 06 22:43:58 GMT 2023","164","","","","","","[scenario name]",""
+"passed","Tue Jun 06 22:53:03 GMT 2023","Tue Jun 06 22:53:03 GMT 2023","94","","","","","","Get Product by ID",""
+"passed","Tue Jun 06 22:53:03 GMT 2023","Tue Jun 06 22:53:03 GMT 2023","495","","","","","","Authentication using Valid Credentials",""
