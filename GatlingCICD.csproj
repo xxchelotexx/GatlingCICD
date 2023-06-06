@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include=".github\workflows\" />
+    <Folder Include=".github\" />
   </ItemGroup>
 
 </Project>
