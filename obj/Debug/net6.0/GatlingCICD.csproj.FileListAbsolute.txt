@@ -1,0 +1,238 @@
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\testhost.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\testhost.exe
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\nunit.engine.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\nunit.engine.api.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\nunit.engine.core.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\testcentric.engine.metadata.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\GatlingCICD.deps.json
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\GatlingCICD.runtimeconfig.json
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\GatlingCICD.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\GatlingCICD.pdb
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\BoDi.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Gherkin.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\nunit.framework.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\RestSharp.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\TechTalk.SpecFlow.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\System.Text.Json.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\obj\Debug\net6.0\GatlingCICD.csproj.AssemblyReference.cache
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\obj\Debug\net6.0\GatlingCICD.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\obj\Debug\net6.0\GatlingCICD.AssemblyInfoInputs.cache
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\obj\Debug\net6.0\GatlingCICD.AssemblyInfo.cs
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\obj\Debug\net6.0\GatlingCICD.csproj.CoreCompileInputs.cache
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\obj\Debug\net6.0\GatlingCICD.csproj.CopyComplete
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\obj\Debug\net6.0\GatlingCICD.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\obj\Debug\net6.0\refint\GatlingCICD.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\obj\Debug\net6.0\GatlingCICD.pdb
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\obj\Debug\net6.0\GatlingCICD.genruntimeconfig.cache
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\obj\Debug\net6.0\ref\GatlingCICD.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\specflow.json
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Allure.Commons.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\CsvHelper.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\MimeTypesMap.dll
+F:\Mojix\Automation Bootcamp 2\Modulo III Automatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Allure.SpecFlowPlugin.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\testhost.exe
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\testhost.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\nunit.engine.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\nunit.engine.api.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\nunit.engine.core.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\testcentric.engine.metadata.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\specflow.json
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\GatlingCICD.deps.json
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\GatlingCICD.runtimeconfig.json
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\GatlingCICD.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\GatlingCICD.pdb
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Allure.Commons.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\BoDi.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\CsvHelper.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Gherkin.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\MimeTypesMap.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\nunit.framework.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\RestSharp.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\TechTalk.SpecFlow.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\Allure.SpecFlowPlugin.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\System.Text.Json.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\obj\Debug\net6.0\GatlingCICD.csproj.AssemblyReference.cache
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\obj\Debug\net6.0\GatlingCICD.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\obj\Debug\net6.0\GatlingCICD.AssemblyInfoInputs.cache
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\obj\Debug\net6.0\GatlingCICD.AssemblyInfo.cs
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\obj\Debug\net6.0\GatlingCICD.csproj.CoreCompileInputs.cache
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\obj\Debug\net6.0\GatlingCICD.csproj.CopyComplete
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\obj\Debug\net6.0\GatlingCICD.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\obj\Debug\net6.0\refint\GatlingCICD.dll
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\obj\Debug\net6.0\GatlingCICD.pdb
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\obj\Debug\net6.0\GatlingCICD.genruntimeconfig.cache
+F:\Mojix\AutomationBootcamp2\ModuloIIIAutomatizacion\GatlingCICD\GatlingCICD\obj\Debug\net6.0\ref\GatlingCICD.dll
