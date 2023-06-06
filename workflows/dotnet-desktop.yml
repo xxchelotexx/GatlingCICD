@@ -20,14 +20,14 @@ jobs:
         run: dotnet restore
       - name: Build
         run: dotnet build --configuration Release --no-restore
-      - name: Execute Tests
+      - name: Execute Tests cases
         run: dotnet test --no-restore --verbosity normal
       - name: "Publish test results"
         uses: peaceiris/actions-gh-pages@v3.7.3
         if: ${{ always() }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: './TestProject3/bin/Debug/net6.0/allure-results'
+          publish_dir: './bin/Debug/net6.0/allure-results'
           keep_files: true
           user_name: xxchelotexx
           user_email: ruizv.marcelo@hotmail.com
