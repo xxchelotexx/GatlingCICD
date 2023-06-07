@@ -24,7 +24,7 @@ namespace GatlingCICD
             request = new RestRequest();
             request.Method = Method.Post;
             request.AddHeader("Content-Type", "application/json");
-            body = new Authenticate { username = "admin", password = "admin" };
+            body = new Credentials { username = "admin", password = "admin" };
             item = System.Text.Json.JsonSerializer.Serialize(body);
 
 

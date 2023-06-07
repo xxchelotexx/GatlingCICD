@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace GatlingCICD
 {
-    public class Authenticate
+    internal class GetToken
     {
-        public string username { get; set; }
-        public string password { get; set; }
     }
-
 }
