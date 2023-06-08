@@ -1,0 +1,106 @@
+{
+  "uuid": "b187ee5d24df4850a5f6fe85d730f362",
+  "historyId": "Edit an existing product",
+  "fullName": "Edit an existing product",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "fv-az629-768"
+    },
+    {
+      "name": "feature",
+      "value": "Edit Products"
+    },
+    {
+      "name": "tag",
+      "value": "edit"
+    },
+    {
+      "name": "tag",
+      "value": "Critital"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    }
+  ],
+  "links": [],
+  "name": "Edit an existing product",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I have a valid endpoint",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686192597638,
+      "stop": 1686192597640
+    },
+    {
+      "name": "And  I have the data to edit a product",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686192597640,
+      "stop": 1686192597668
+    },
+    {
+      "name": "When  a PUT request is sent",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686192597668,
+      "stop": 1686192597690
+    },
+    {
+      "name": "Then  I spect a valid response with the data changed",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686192597690,
+      "stop": 1686192597700
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1686192597638,
+  "stop": 1686192597701
+}

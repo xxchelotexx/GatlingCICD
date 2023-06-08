@@ -1,0 +1,87 @@
+{
+  "uuid": "9958b5916b3644dd8ff50f6c1ccef84b",
+  "historyId": "Get Products",
+  "fullName": "Get Products",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "fv-az629-768"
+    },
+    {
+      "name": "feature",
+      "value": "GetProducts"
+    },
+    {
+      "name": "tag",
+      "value": "Get"
+    },
+    {
+      "name": "tag",
+      "value": "Products"
+    }
+  ],
+  "links": [],
+  "name": "Get Products",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I have a the Gatling enpoint",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686192597706,
+      "stop": 1686192597707
+    },
+    {
+      "name": "When  I send a GET request,",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686192597707,
+      "stop": 1686192597729
+    },
+    {
+      "name": "Then  I spect a valid response",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686192597729,
+      "stop": 1686192597730
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1686192597706,
+  "stop": 1686192597730
+}
