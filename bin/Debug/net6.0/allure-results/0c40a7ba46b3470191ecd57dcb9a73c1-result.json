@@ -1,0 +1,91 @@
+{
+  "uuid": "22bf770599ba4c5b81b78852f26a19db",
+  "historyId": "Authentication using Valid Credentials",
+  "fullName": "Authentication using Valid Credentials",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-7FB0V4P"
+    },
+    {
+      "name": "feature",
+      "value": "Authentication"
+    },
+    {
+      "name": "tag",
+      "value": "Critical"
+    },
+    {
+      "name": "tag",
+      "value": "Authentication"
+    },
+    {
+      "name": "tag",
+      "value": "smoke-test"
+    }
+  ],
+  "links": [],
+  "name": "Authentication using Valid Credentials",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I authenticate using valid credentials",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686310530406,
+      "stop": 1686310530517
+    },
+    {
+      "name": "When  I send a POST request",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686310530517,
+      "stop": 1686310530912
+    },
+    {
+      "name": "Then  I receive a valid response and a valid Token",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686310530912,
+      "stop": 1686310530926
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1686310530399,
+  "stop": 1686310530929
+}
