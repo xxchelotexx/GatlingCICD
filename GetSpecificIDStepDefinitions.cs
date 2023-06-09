@@ -13,19 +13,31 @@ namespace GatlingCICD
         RestClient client;
         RestRequest request;
         RestResponse response;
+        Random random;
+        int first;
+        int last;
+        int productID = 17;
+        JObject jsonObject;
+
        
 
-        [Given(@"Given I have a Valid product ID")]
+        [Given(@"I have a Valid product ID")]
         public void GivenGivenIHaveAValidProductID()
         {
             client = new RestClient("http://demostore.gatling.io/api/");
-            request = new RestRequest("product/{postid}", Method.Get);
+            request = new RestRequest("product/{productID}", Method.Get);
+            first = ProductID.Product("first");
+            last = ProductID.Product("last");
+            random = new Random();
+            productID = random.Next(first,last);
+            Console.WriteLine(productID);
+
         }
 
         [When(@"I send a Get request")]
         public void WhenISendAGetRequest()
         {
-            request.AddUrlSegment("postid", 17);
+            request.AddUrlSegment("productID", productID);
             response = client.ExecuteGet(request);
 
         }
@@ -34,7 +46,12 @@ namespace GatlingCICD
         public void ThenISpectAValidResponse()
         {
             Assert.That(response.StatusCode, Is.EqualTo(HttpStatusCode.OK));
-            
+            jsonObject = JObject.Parse(response.Content);
+            Assert.That((string)jsonObject["name"], Is.TypeOf<string>());
+            Assert.That((string)jsonObject["description"], Is.TypeOf<string>());
+            Assert.That((double)jsonObject["price"], Is.TypeOf<double>());
+            Assert.That((int)jsonObject["categoryId"], Is.TypeOf<int>());
+
         }
     }
 }

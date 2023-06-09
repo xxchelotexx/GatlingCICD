@@ -41,7 +41,7 @@ namespace GatlingCICD
             Console.WriteLine(authToken);
             request.AddHeader("Authorization", "Bearer " + authToken);
             request.AddHeader("Content-Type", "application/json");
-            Random random = new Random();
+            random = new Random();
             editedCategory = random.Next(5, 7);
             editedPrice = Math.Round(random.NextDouble() * 100, 2);
             editedName = RandomStringGenerator.GenerateRandomString(5);
