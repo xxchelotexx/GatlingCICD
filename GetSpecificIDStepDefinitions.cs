@@ -16,7 +16,7 @@ namespace GatlingCICD
         Random random;
         int first;
         int last;
-        int productID = 17;
+        int productID;
         JObject jsonObject;
 
        

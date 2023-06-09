@@ -22,6 +22,8 @@ namespace GatlingCICD
         string editedDescription;
         object body;
         string item;
+        int first;
+        int last;
         JObject jsonObject;
         string authToken;
         Random random;
@@ -42,14 +44,15 @@ namespace GatlingCICD
             request.AddHeader("Authorization", "Bearer " + authToken);
             request.AddHeader("Content-Type", "application/json");
             random = new Random();
-            editedCategory = random.Next(5, 7);
+            first = CategoryID.Categories("first");
+            last = CategoryID.Categories("last");
+            editedCategory = random.Next(first, last);
             editedPrice = Math.Round(random.NextDouble() * 100, 2);
             editedName = RandomStringGenerator.GenerateRandomString(5);
             editedDescription = RandomStringGenerator.GenerateRandomString(6);
 
             body = new ProductBody { name = editedName, description = editedDescription, categoryId = editedCategory, price = editedPrice };
             Console.WriteLine(body);
-            //item = System.Text.Json.JsonSerializer.Serialize(body);
             item = JsonConvert.SerializeObject(body);
             Console.WriteLine(item);
             
