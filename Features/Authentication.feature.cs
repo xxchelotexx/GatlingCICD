@@ -76,13 +76,13 @@ namespace GatlingCICD.Features
         
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("Authentication using Valid Credentials")]
-        [NUnit.Framework.CategoryAttribute("Critical")]
+        [NUnit.Framework.CategoryAttribute("High")]
         [NUnit.Framework.CategoryAttribute("Authentication")]
         [NUnit.Framework.CategoryAttribute("smoke-test")]
         public void AuthenticationUsingValidCredentials()
         {
             string[] tagsOfScenario = new string[] {
-                    "Critical",
+                    "High",
                     "Authentication",
                     "smoke-test"};
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();

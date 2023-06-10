@@ -76,14 +76,18 @@ namespace GatlingCICD.Features
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("Edit an existing product")]
         [NUnit.Framework.CategoryAttribute("edit")]
-        [NUnit.Framework.CategoryAttribute("Critital")]
+        [NUnit.Framework.CategoryAttribute("High")]
         [NUnit.Framework.CategoryAttribute("smoke")]
+        [NUnit.Framework.CategoryAttribute("Products")]
+        [NUnit.Framework.CategoryAttribute("PUT")]
         public void EditAnExistingProduct()
         {
             string[] tagsOfScenario = new string[] {
                     "edit",
-                    "Critital",
-                    "smoke"};
+                    "High",
+                    "smoke",
+                    "Products",
+                    "PUT"};
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Edit an existing product", null, tagsOfScenario, argumentsOfScenario, featureTags);
 #line 6
