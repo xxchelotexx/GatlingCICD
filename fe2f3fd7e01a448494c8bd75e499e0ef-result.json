@@ -1,0 +1,91 @@
+{
+  "uuid": "c156ad0b40854296ac35e5198a059ad3",
+  "historyId": "Authentication using Valid Credentials",
+  "fullName": "Authentication using Valid Credentials",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-7FB0V4P"
+    },
+    {
+      "name": "feature",
+      "value": "Authentication"
+    },
+    {
+      "name": "tag",
+      "value": "Critical"
+    },
+    {
+      "name": "tag",
+      "value": "Authentication"
+    },
+    {
+      "name": "tag",
+      "value": "smoke-test"
+    }
+  ],
+  "links": [],
+  "name": "Authentication using Valid Credentials",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I authenticate using valid credentials",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686356990103,
+      "stop": 1686356990220
+    },
+    {
+      "name": "When  I send a POST request",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686356990220,
+      "stop": 1686356990518
+    },
+    {
+      "name": "Then  I receive a valid response and a valid Token",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686356990518,
+      "stop": 1686356990531
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1686356990094,
+  "stop": 1686356990533
+}

@@ -1,0 +1,93 @@
+{
+  "uuid": "b69c83e0bb9f43aa810009dcbd2e1a43",
+  "historyId": "Get Product by ID",
+  "fullName": "Get Product by ID",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-7FB0V4P"
+    },
+    {
+      "name": "feature",
+      "value": "GetSpecificID"
+    },
+    {
+      "name": "tag",
+      "value": "GET"
+    },
+    {
+      "name": "tag",
+      "value": "SpecificID"
+    },
+    {
+      "name": "tag",
+      "value": "critical"
+    }
+  ],
+  "links": [],
+  "name": "Get Product by ID",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Object reference not set to an instance of an object.",
+    "trace": "System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at GatlingCICD.GetSpecificIDStepDefinitions.GivenGivenIHaveAValidProductID() in F:\\Mojix\\AutomationBootcamp2\\ModuloIIIAutomatizacion\\GatlingCICD\\GatlingCICD\\GetSpecificIDStepDefinitions.cs:line 35\r\n   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)\r\n   at Allure.SpecFlowPlugin.AllureBindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)\r\n   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments, TimeSpan& duration)\r\n   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I have a Valid product ID",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686350567312,
+      "stop": 1686350567900
+    },
+    {
+      "name": "When  I send a Get request",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686350567909,
+      "stop": 1686350567910
+    },
+    {
+      "name": "Then  I Spect a Valid Response",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686350567912,
+      "stop": 1686350567913
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1686350567312,
+  "stop": 1686350567917
+}

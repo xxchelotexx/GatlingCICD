@@ -1,0 +1,95 @@
+{
+  "uuid": "3b180c81d34c45dd9a3370ffdd7fa1bf",
+  "historyId": "Get Categories",
+  "fullName": "Get Categories",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-7FB0V4P"
+    },
+    {
+      "name": "feature",
+      "value": "GetAllCategories"
+    },
+    {
+      "name": "tag",
+      "value": "Category"
+    },
+    {
+      "name": "tag",
+      "value": "GET"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    },
+    {
+      "name": "tag",
+      "value": "medium"
+    }
+  ],
+  "links": [],
+  "name": "Get Categories",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I have a categories endpoin",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686363172514,
+      "stop": 1686363172515
+    },
+    {
+      "name": "When  I send a GET request",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686363172515,
+      "stop": 1686363172758
+    },
+    {
+      "name": "Then  I spect  a valid response",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686363172758,
+      "stop": 1686363172759
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1686363172514,
+  "stop": 1686363172759
+}
