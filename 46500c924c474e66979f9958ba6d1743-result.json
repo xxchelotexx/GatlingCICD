@@ -1,0 +1,91 @@
+{
+  "uuid": "1d44bd699a5940b4bf61814b494f0bf8",
+  "historyId": "Authentication using Valid Credentials",
+  "fullName": "Authentication using Valid Credentials",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "fv-az612-947"
+    },
+    {
+      "name": "feature",
+      "value": "Authentication"
+    },
+    {
+      "name": "tag",
+      "value": "High"
+    },
+    {
+      "name": "tag",
+      "value": "Authentication"
+    },
+    {
+      "name": "tag",
+      "value": "smoke-test"
+    }
+  ],
+  "links": [],
+  "name": "Authentication using Valid Credentials",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I authenticate using valid credentials",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686365226975,
+      "stop": 1686365227152
+    },
+    {
+      "name": "When  I send a POST request",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686365227153,
+      "stop": 1686365227473
+    },
+    {
+      "name": "Then  I receive a valid response and a valid Token",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686365227473,
+      "stop": 1686365227484
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1686365226960,
+  "stop": 1686365227486
+}

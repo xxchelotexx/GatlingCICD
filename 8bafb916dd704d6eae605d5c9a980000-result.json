@@ -1,0 +1,114 @@
+{
+  "uuid": "bc15c20025f64296bd7ee8439217079d",
+  "historyId": "Product Creation",
+  "fullName": "Product Creation",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "fv-az612-947"
+    },
+    {
+      "name": "feature",
+      "value": "Create a Product"
+    },
+    {
+      "name": "tag",
+      "value": "product"
+    },
+    {
+      "name": "tag",
+      "value": "Create"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    },
+    {
+      "name": "tag",
+      "value": "High"
+    },
+    {
+      "name": "tag",
+      "value": "Post"
+    }
+  ],
+  "links": [],
+  "name": "Product Creation",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I have the product creation endpoint",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686365227548,
+      "stop": 1686365227591
+    },
+    {
+      "name": "And  valid data",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686365227592,
+      "stop": 1686365228299
+    },
+    {
+      "name": "When  I send a POST request,",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686365228299,
+      "stop": 1686365228321
+    },
+    {
+      "name": "Then  I receive a valid response with the new product data",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686365228321,
+      "stop": 1686365228330
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1686365227548,
+  "stop": 1686365228330
+}
