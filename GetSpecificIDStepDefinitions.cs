@@ -39,7 +39,7 @@ namespace GatlingCICD
         {
             request.AddUrlSegment("productID", productID);
             response = client.ExecuteGet(request);
-
+            
         }
 
         [Then(@"I Spect a Valid Response")]
@@ -47,6 +47,7 @@ namespace GatlingCICD
         {
             Assert.That(response.StatusCode, Is.EqualTo(HttpStatusCode.OK));
             jsonObject = JObject.Parse(response.Content);
+            
             Assert.That((string)jsonObject["name"], Is.TypeOf<string>());
             Assert.That((string)jsonObject["description"], Is.TypeOf<string>());
             Assert.That((double)jsonObject["price"], Is.TypeOf<double>());

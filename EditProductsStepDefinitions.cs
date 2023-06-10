@@ -24,6 +24,7 @@ namespace GatlingCICD
         string item;
         int first;
         int last;
+        int putid;
         JObject jsonObject;
         string authToken;
         Random random;
@@ -33,7 +34,11 @@ namespace GatlingCICD
         {
             client = new RestClient("http://demostore.gatling.io/api/");
             request = new RestRequest("product/{putid}", Method.Put);
-            request.AddUrlSegment("putid", 17);
+            random = new Random();
+            first = ProductID.Product("first");
+            last = ProductID.Product("last");
+            putid = random.Next(first, last);
+            request.AddUrlSegment("putid", putid);
         }
 
         [Given(@"I have the data to edit a product")]

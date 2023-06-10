@@ -1,0 +1,131 @@
+{
+  "uuid": "bfa8304ffd3a4bd5b87be00873067181",
+  "historyId": "Edit Category",
+  "fullName": "Edit Category",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-7FB0V4P"
+    },
+    {
+      "name": "feature",
+      "value": "Edit Category"
+    },
+    {
+      "name": "tag",
+      "value": "edit"
+    },
+    {
+      "name": "tag",
+      "value": "PUT"
+    },
+    {
+      "name": "tag",
+      "value": "Category"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    },
+    {
+      "name": "tag",
+      "value": "Medium"
+    }
+  ],
+  "links": [],
+  "name": "Edit Category",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Expected string length 5 but was 7. Strings differ at index 0.\r\n  Expected: \" Vx3o\"\r\n  But was:  \"For Her\"\r\n  -----------^\r\n",
+    "trace": "NUnit.Framework.AssertionException:   Expected string length 5 but was 7. Strings differ at index 0.\r\n  Expected: \" Vx3o\"\r\n  But was:  \"For Her\"\r\n  -----------^\r\n\r\n   at NUnit.Framework.Assert.ReportFailure(String message)\r\n   at NUnit.Framework.Assert.ReportFailure(ConstraintResult result, String message, Object[] args)\r\n   at NUnit.Framework.Assert.That[TActual](TActual actual, IResolveConstraint expression, String message, Object[] args)\r\n   at NUnit.Framework.Assert.That[TActual](TActual actual, IResolveConstraint expression)\r\n   at GatlingCICD.EditCategoryStepDefinitions.ThenISpectAValidResponseAndTheDataEdited_() in F:\\Mojix\\AutomationBootcamp2\\ModuloIIIAutomatizacion\\GatlingCICD\\GatlingCICD\\EditCategoryStepDefinitions.cs:line 75\r\n   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)\r\n   at Allure.SpecFlowPlugin.AllureBindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)\r\n   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments, TimeSpan& duration)\r\n   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I have a valid category endpoint",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686361139722,
+      "stop": 1686361139750
+    },
+    {
+      "name": "And  I have a valid ID",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686361139751,
+      "stop": 1686361140403
+    },
+    {
+      "name": "And  I have valid data.",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686361140403,
+      "stop": 1686361140760
+    },
+    {
+      "name": "When  I send a PUT request,",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686361140760,
+      "stop": 1686361141000
+    },
+    {
+      "name": "Then  I spect a valid response and the data edited.",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686361141000,
+      "stop": 1686361141198
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1686361139714,
+  "stop": 1686361141203
+}
