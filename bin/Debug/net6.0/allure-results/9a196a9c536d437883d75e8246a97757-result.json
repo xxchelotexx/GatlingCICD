@@ -1,0 +1,112 @@
+{
+  "uuid": "a23496caa44b4c2a9c22677a01a4d1d5",
+  "historyId": "Product Creation",
+  "fullName": "Product Creation",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-7FB0V4P"
+    },
+    {
+      "name": "feature",
+      "value": "Create a Product"
+    },
+    {
+      "name": "tag",
+      "value": "product"
+    },
+    {
+      "name": "tag",
+      "value": "Create"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    },
+    {
+      "name": "tag",
+      "value": "critical"
+    }
+  ],
+  "links": [],
+  "name": "Product Creation",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Object reference not set to an instance of an object.",
+    "trace": "System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at GatlingCICD.CreateAProductStepDefinitions.ThenIReceiveAValidResponseWithTheNewProductData() in F:\\Mojix\\AutomationBootcamp2\\ModuloIIIAutomatizacion\\GatlingCICD\\GatlingCICD\\CreateAProductStepDefinitions.cs:line 61\r\n   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)\r\n   at Allure.SpecFlowPlugin.AllureBindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)\r\n   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments, TimeSpan& duration)\r\n   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I have the product creation endpoint",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686353859701,
+      "stop": 1686353859730
+    },
+    {
+      "name": "And  valid data",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686353859731,
+      "stop": 1686353860617
+    },
+    {
+      "name": "When  I send a POST request,",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686353860618,
+      "stop": 1686353860881
+    },
+    {
+      "name": "Then  I receive a valid response with the new product data",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686353860881,
+      "stop": 1686353860924
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1686353859693,
+  "stop": 1686353861052
+}

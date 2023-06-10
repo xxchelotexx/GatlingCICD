@@ -1,0 +1,110 @@
+{
+  "uuid": "f16552267acd4d11b20e744aa3ca31f1",
+  "historyId": "Edit a Category",
+  "fullName": "Edit a Category",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-7FB0V4P"
+    },
+    {
+      "name": "feature",
+      "value": "Edit Category"
+    },
+    {
+      "name": "tag",
+      "value": "Category"
+    },
+    {
+      "name": "tag",
+      "value": "Edit"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    },
+    {
+      "name": "tag",
+      "value": "Critical"
+    }
+  ],
+  "links": [],
+  "name": "Edit a Category",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I have a valid category  endpoint",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686358814772,
+      "stop": 1686358814780
+    },
+    {
+      "name": "And  I Have a valid category ID",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686358814780,
+      "stop": 1686358814824
+    },
+    {
+      "name": "When  I send a PUT request",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686358814824,
+      "stop": 1686358814825
+    },
+    {
+      "name": "Then  I spect a valid response and the edited category data.",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686358814828,
+      "stop": 1686358814828
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1686358814765,
+  "stop": 1686358814903
+}
