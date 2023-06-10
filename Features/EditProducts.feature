@@ -1,8 +1,8 @@
 ﻿Feature: Edit Products
 
-A short summary of the feature
+This test case is designed to verify that is posible to Edit Products
 
-@edit @Critital @smoke
+@edit @High @smoke @Products @PUT
 Scenario: Edit an existing product
 	Given I have a valid endpoint 
 	And I have the data to edit a product

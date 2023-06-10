@@ -1,8 +1,8 @@
 ﻿Feature: Authentication
 
-A short summary of the feature
+This test case is designed to Verify that is possible to Authenticate using valid credentials
 
-@Critical @Authentication @smoke-test
+@High @Authentication @smoke-test
 Scenario: Authentication using Valid Credentials
 	Given I authenticate using valid credentials
 	When I send a POST request
