@@ -78,13 +78,15 @@ namespace GatlingCICD.Features
         [NUnit.Framework.DescriptionAttribute("Get Product by ID")]
         [NUnit.Framework.CategoryAttribute("GET")]
         [NUnit.Framework.CategoryAttribute("SpecificID")]
-        [NUnit.Framework.CategoryAttribute("critical")]
+        [NUnit.Framework.CategoryAttribute("High")]
+        [NUnit.Framework.CategoryAttribute("smoke")]
         public void GetProductByID()
         {
             string[] tagsOfScenario = new string[] {
                     "GET",
                     "SpecificID",
-                    "critical"};
+                    "High",
+                    "smoke"};
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Get Product by ID", null, tagsOfScenario, argumentsOfScenario, featureTags);
 #line 6
