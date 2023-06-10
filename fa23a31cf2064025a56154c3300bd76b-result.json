@@ -1,0 +1,129 @@
+{
+  "uuid": "dc9a12a5386946ac891a9defab48aa41",
+  "historyId": "Edit Category",
+  "fullName": "Edit Category",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "fv-az795-417"
+    },
+    {
+      "name": "feature",
+      "value": "Edit Category"
+    },
+    {
+      "name": "tag",
+      "value": "edit"
+    },
+    {
+      "name": "tag",
+      "value": "PUT"
+    },
+    {
+      "name": "tag",
+      "value": "Category"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    },
+    {
+      "name": "tag",
+      "value": "Medium"
+    }
+  ],
+  "links": [],
+  "name": "Edit Category",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I have a valid category endpoint",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686365455471,
+      "stop": 1686365455472
+    },
+    {
+      "name": "And  I have a valid ID",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686365455472,
+      "stop": 1686365455756
+    },
+    {
+      "name": "And  I have valid data.",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686365455756,
+      "stop": 1686365455907
+    },
+    {
+      "name": "When  I send a PUT request,",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686365455907,
+      "stop": 1686365456061
+    },
+    {
+      "name": "Then  I spect a valid response and the data edited.",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686365456062,
+      "stop": 1686365456145
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1686365455471,
+  "stop": 1686365456146
+}

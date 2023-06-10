@@ -1,0 +1,114 @@
+{
+  "uuid": "adb19ecc38c64beba2e727765254e7e1",
+  "historyId": "Edit an existing product",
+  "fullName": "Edit an existing product",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "fv-az795-417"
+    },
+    {
+      "name": "feature",
+      "value": "Edit Products"
+    },
+    {
+      "name": "tag",
+      "value": "edit"
+    },
+    {
+      "name": "tag",
+      "value": "High"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    },
+    {
+      "name": "tag",
+      "value": "Products"
+    },
+    {
+      "name": "tag",
+      "value": "PUT"
+    }
+  ],
+  "links": [],
+  "name": "Edit an existing product",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I have a valid endpoint",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686365456150,
+      "stop": 1686365456448
+    },
+    {
+      "name": "And  I have the data to edit a product",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686365456448,
+      "stop": 1686365456878
+    },
+    {
+      "name": "When  a PUT request is sent",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686365456878,
+      "stop": 1686365457020
+    },
+    {
+      "name": "Then  I spect a valid response with the data changed",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686365457020,
+      "stop": 1686365457022
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1686365456150,
+  "stop": 1686365457022
+}

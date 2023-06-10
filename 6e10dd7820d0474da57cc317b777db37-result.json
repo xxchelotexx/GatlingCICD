@@ -1,0 +1,95 @@
+{
+  "uuid": "57d335d798d54d16bddefdc820201a91",
+  "historyId": "Get Product by ID",
+  "fullName": "Get Product by ID",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "fv-az795-417"
+    },
+    {
+      "name": "feature",
+      "value": "GetSpecificID"
+    },
+    {
+      "name": "tag",
+      "value": "GET"
+    },
+    {
+      "name": "tag",
+      "value": "SpecificID"
+    },
+    {
+      "name": "tag",
+      "value": "High"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    }
+  ],
+  "links": [],
+  "name": "Get Product by ID",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I have a Valid product ID",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686365457794,
+      "stop": 1686365458079
+    },
+    {
+      "name": "When  I send a Get request",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686365458079,
+      "stop": 1686365458220
+    },
+    {
+      "name": "Then  I Spect a Valid Response",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686365458220,
+      "stop": 1686365458222
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1686365457794,
+  "stop": 1686365458222
+}
