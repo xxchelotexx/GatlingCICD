@@ -1,0 +1,110 @@
+{
+  "uuid": "88cf016be7b0483ba1ba538acfd6d8bb",
+  "historyId": "GET a category using an ID",
+  "fullName": "GET a category using an ID",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "fv-az627-548"
+    },
+    {
+      "name": "feature",
+      "value": "Get Category using an ID"
+    },
+    {
+      "name": "tag",
+      "value": "GET"
+    },
+    {
+      "name": "tag",
+      "value": "id"
+    },
+    {
+      "name": "tag",
+      "value": "Category"
+    },
+    {
+      "name": "tag",
+      "value": "Medium"
+    }
+  ],
+  "links": [],
+  "name": "GET a category using an ID",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I Have a valid category endpoint",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686878525541,
+      "stop": 1686878525542
+    },
+    {
+      "name": "And  a valid category ID,",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686878525542,
+      "stop": 1686878525584
+    },
+    {
+      "name": "When  I send a GET  request",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686878525584,
+      "stop": 1686878525607
+    },
+    {
+      "name": "Then  I spect a valid response with the category data",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686878525607,
+      "stop": 1686878525608
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1686878525541,
+  "stop": 1686878525608
+}

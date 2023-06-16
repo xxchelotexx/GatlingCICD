@@ -1,0 +1,114 @@
+{
+  "uuid": "a0ea0f5405c3430e904486a9a3d92a17",
+  "historyId": "Create Category",
+  "fullName": "Create Category",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "fv-az627-548"
+    },
+    {
+      "name": "feature",
+      "value": "CreateCategory"
+    },
+    {
+      "name": "tag",
+      "value": "Create"
+    },
+    {
+      "name": "tag",
+      "value": "Category"
+    },
+    {
+      "name": "tag",
+      "value": "Post"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    },
+    {
+      "name": "tag",
+      "value": "High"
+    }
+  ],
+  "links": [],
+  "name": "Create Category",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I have a valid Category endpoint",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686878525211,
+      "stop": 1686878525212
+    },
+    {
+      "name": "And  valid data to create a category",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686878525212,
+      "stop": 1686878525237
+    },
+    {
+      "name": "When  I  send a POST request",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686878525237,
+      "stop": 1686878525260
+    },
+    {
+      "name": "Then  I spect a valid response and the new category data.",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1686878525260,
+      "stop": 1686878525265
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1686878525211,
+  "stop": 1686878525265
+}
